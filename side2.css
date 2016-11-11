@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+  background: #c0392b;
+  font-family: "Myriad Pro", Myriad, Verdana, Geneva, sans-serif;
+}
+
+h1{
+  color: #ecf0f1;
+  text-align: center;
+  font-size: 30px;
+}
+h2{
+  color: #ecf0f1;
+  text-align: center;
+  font-size: 30px;
+}
+h3{
+  color: #ecf0f1;
+  text-align: center;
+  font-size: 30px;
+}
+
+iframe{
+	
+  margin-right: auto;
+	margin-left: auto;
+	
+  }
